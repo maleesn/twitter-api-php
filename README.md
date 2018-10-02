@@ -97,3 +97,5 @@ echo $twitter->setGetfield($getfield)
 ```
 
 That is it! Really simple, works great with the 1.1 API. Thanks to @lackovic10 and @rivers on SO!
+
+maleesn (github.com/maleesn)
